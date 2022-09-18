@@ -26,8 +26,7 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nunezgabriel&" alt="nunezgabriel" />
 </p>
-<p space = "between">
-<img aling="right" src="./assets/hollor_knight3.gif" alt="undertale" width="10%" />
-<img aling="left"src="./assets/f30e21da146bd3501555eec943a8898e.gif" alt="banana" width="10%" />
+<p>
+<img aling="left" src="./assets/hollor_knight3.gif" alt="undertale" width="10%" />
 </p>
 
