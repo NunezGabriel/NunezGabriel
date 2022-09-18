@@ -26,10 +26,8 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nunezgabriel&" alt="nunezgabriel" />
 </p>
-<p align="left">
-<img src="./assets/9ca14e41059b13786a6bd1b2c7786b8a.gif" alt="sans" width="10%" />
-</p>
-<p align="right">
-<img src="./assets/f30e21da146bd3501555eec943a8898e.gif" alt="banana" width="10%" />
-</p>
+
+<img aling="right" src="./assets/hollor_knight3.gif" alt="undertale" width="10%" />
+<img aling="left"src="./assets/f30e21da146bd3501555eec943a8898e.gif" alt="banana" width="10%" />
+
 
