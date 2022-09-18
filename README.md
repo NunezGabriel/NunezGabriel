@@ -22,14 +22,14 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nunezgabriel&show_icons=true&locale=en&layout=compact" alt="streak" />
 </p>
-<p  aling="left">
+<p  aling="right">
 <img src="./assets/f30e21da146bd3501555eec943a8898e.gif" alt="banana" width="10%" />
 </p>
 <h1>Streak stats🧑‍💻</h1>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nunezgabriel&" alt="nunezgabriel" />
 </p>
-<p aling="left">
+<p aling="right">
 <img src="./assets/hollor_knight3.gif" alt="undertale" width="10%" />
 </p>
 
