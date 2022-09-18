@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./assets/welcome.gif" alt="wellcome">
+    <img src="./assets/welcome.gif" alt="wellcome" width="60%">
 </p>
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A passionate student from Peru 🇵🇪</h3>
@@ -25,5 +25,8 @@
 <h1>Streak stats🧑‍💻</h1>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nunezgabriel&" alt="nunezgabriel" />
+</p>
+<p align="right">
+<img src="./assets/f30e21da146bd3501555eec943a8898e.gif" alt="banana" width="10%" />
 </p>
 
