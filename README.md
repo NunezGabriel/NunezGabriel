@@ -27,6 +27,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nunezgabriel&" alt="nunezgabriel" />
 </p>
 <p align="right">
-<img src="./assets/f30e21da146bd3501555eec943a8898e.gif" alt="banana" />
+<img src="./assets/f30e21da146bd3501555eec943a8898e.gif" alt="banana" width="10%" />
 </p>
 
