@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./assets/mOZpPGs.gif " alt="wellcome" width="60%">
+    <img src="./assets/mOZpPGs.gif " alt="wellcome" width="60%" height="40%">
 </p>
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A passionate student from Peru 🇵🇪</h3>
