@@ -24,7 +24,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nunezgabriel&show_icons=true&locale=en&layout=compact" alt="streak" />
 </p>
 <p  align="right">
-<img src="./assets/green.gif" alt="green" width="100%" height="15px" />
+<img src="./assets/line.gif" alt="line" width="100%" height="15px" />
 </p>
 <h1>Streak stats🧑‍💻</h1>
 <p align="center">
