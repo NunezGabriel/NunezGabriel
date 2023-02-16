@@ -21,10 +21,7 @@
 <p  align="right">
 <img src="./assets/line.gif" alt="line" width="100%" height="125px" />
 </p>
-<h1>Streak stats🧑‍💻</h1>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nunezgabriel&" alt="nunezgabriel" />
-</p>
+
 <p align="right">
 <img src="./assets/hollor_knight3.gif" alt="undertale" width="10%" />
 </p>
