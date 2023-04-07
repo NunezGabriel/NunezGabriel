@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm Gabriel</h1>
 <h3 align="center">A passionate student from Peru 🇵🇪</h3>
 <img src="./assets/line.gif" alt="line" width="100%" height="125px" />
-- 🌱 I’m currently learning **Html, Css, JavaScript and React**
+- 🛜 I’m currently learning **Html, Css, JavaScript and React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NunezGabriel?tab=repositories](https://github.com/NunezGabriel?tab=repositories)
 
