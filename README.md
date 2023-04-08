@@ -5,6 +5,7 @@
 <h3 align="center">A passionate student from Peru 🇵🇪</h3>
 <img src="./assets/line.gif" alt="line" width="100%" height="125px" />
 - 🛜 I’m currently learning **Html, Css, JavaScript and React**
+- 
 - 📫 How to reach me **emilio.nunez.arenas@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
