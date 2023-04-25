@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./assets/mOZpPGs.gif " alt="wellcome" width="100%" height="40%">
+    <img src="./assets/systemF.gif " alt="wellcome" width="100%" height="40%">
 </p>
 <h1 align="center">Hi, I'm Gabriel</h1>
 <img src="./assets/line.gif" alt="line" width="100%" height="125px" />
