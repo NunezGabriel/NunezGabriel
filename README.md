@@ -2,7 +2,7 @@
     <img src="./assets/mOZpPGs.gif " alt="wellcome" width="100%" height="40%">
 </p>
 <h1 align="center">Hi, I'm Gabriel</h1>
-<img src="./assets/line.gif" alt="line" width="100%" height="125px" />
+<img src="./assets/cubes.gif" alt="line" width="100%" height="125px" />
 - 🛜 I’m currently learning **Html, Css, JavaScript and React**
 <br>
 - 📫 How to reach me **emilio.nunez.arenas@gmail.com**
