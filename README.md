@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Gabriel</h1>
+<h1 align="left">Hi there, I'm Gabriel</h1>
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **gabriel.nunez.arenas@gmail.com**
