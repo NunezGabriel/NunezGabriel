@@ -1,9 +1,9 @@
 <h4 align="left">Hi there, I'm Gabriel</h4>
-- 🌱 I’m currently learning **React**
+. 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **gabriel.nunez.arenas@gmail.com**
+. 📫 How to reach me **gabriel.nunez.arenas@gmail.com**
 
-- ⚡ Fun fact **you can call me Gabo**
+. ⚡ Fun fact **you can call me Gabo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
