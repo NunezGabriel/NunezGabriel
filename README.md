@@ -12,7 +12,7 @@
 </p>
 
 <h3 align="left">Skills:</h3>
-<img align="left" src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,git,github,postgres,ruby,rails,figma&theme=dark" alt="nunezgabriel" />
+<img align="left" src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,git,github,postgres,ruby,rails,figma,python&theme=dark" alt="nunezgabriel" />
 </br>
 </br>
 
