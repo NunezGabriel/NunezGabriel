@@ -18,9 +18,7 @@
 
 <h3 align="left">Stats:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/?username=nunezgabriel&show_icons=true&theme=tokyonight" alt="nunezgabriel" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunezgabriel&layout=compact&theme=tokyonight" alt="nunezgabriel" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/?username=nunezgabriel&show_icons=true&theme=tokyonight" alt="nunezgabriel" /></p>
 
 
