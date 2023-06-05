@@ -6,8 +6,8 @@
   <li>⚡ Fun fact: Feel free to call me Gabo</li>
   <li>📫 Get in touch!
       <ul>
-        <li>My <a href="mailto:gabriel.nunez.arenas@gmail.com">email</a>⭐️</li>
-        <li>My <a href="https://www.linkedin.com/feed/">linkedin</a>⭐️</li>
+        <li>My <a href="mailto:gabriel.nunez.arenas@gmail.com">email</a></li>
+        <li>My <a href="https://www.linkedin.com/feed/">linkedin</a></li>
       </ul>
   </li>
 </ul>
