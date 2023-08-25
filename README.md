@@ -1,5 +1,5 @@
 <h4 align="left">Hi there, I'm Gabriel</h4>
-<img src = "https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=68E9FF&width=435&lines=Hi+there%2C+I'm+Gabriel;Welcome+to+my+profile!">
+<img src = "https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700D9&width=435&lines=Hi+there%2C+I'm+Gabriel;Welcome+to+my+profile!)](https://git.io/typing-svg">
 <ul>
   <li>🧑‍💻 I'm a full-stack developer with a soft spot for React and related technologies, so I lean towards the frontend.</li>
   <li>🌱 I’m currently learning **NodeJS**</li>
