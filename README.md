@@ -12,7 +12,7 @@
   </li>
 </ul>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700D9&repeat=false&width=435&lines=Skills%3A)](https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700D9&repeat=false&width=435&lines=Skills%3A">
 <img align="left" src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,git,github,emotion,babel,postgres,jest,next,ruby,rails,figma&theme=dark" alt="nunezgabriel" />
 </br>
 </br>
