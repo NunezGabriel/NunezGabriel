@@ -2,8 +2,8 @@
 <img src = "https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700D9&width=435&lines=Hi+there%2C+I'm+Gabriel;Welcome+to+my+profile!">
 <ul>
   <li>🧑‍💻 I'm a full-stack developer with a soft spot for React and related technologies, so I lean towards the frontend.</li>
-  <li>🌱 I’m currently learning **NodeJS**</li>
-  <li>⚡ Fun fact: Feel free to call me Gabo</li>
+  <li>🌱 I’m currently learning **NextJS**.</li>
+  <li>⚡ Fun fact: Feel free to call me Gabo.</li>
   <li>📫 Get in touch!
       <ul>
         <li>My <a href="mailto:gabriel.nunez.arenas@gmail.com">email</a></li>
