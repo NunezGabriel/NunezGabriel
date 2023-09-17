@@ -1,5 +1,5 @@
 <h4 align="left">Hi there, I'm Gabriel</h4> 
-<img src = "https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A3BCC5&width=435&lines=Hi+there%2C+I'm+Gabriel;Welcome+to+my+profile!">
+<img src = "https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=59E0CD&background=0F172A00&width=435&lines=Hi+there%2C+I'm+Gabriel;Welcome+to+my+profile!">
 <ul>
   <li>🧑‍💻 I'm a full-stack developer with a soft spot for React and related technologies, so I lean towards the frontend.</li>
   <li>🌱 I’m currently learning **NextJS**.</li>
