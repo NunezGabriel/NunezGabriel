@@ -13,7 +13,7 @@
 </ul>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=59E0CD&background=0F172A00&repeat=false&width=535&lines=Skills%3A">
-<img align="left" src="https://skillicons.dev/icons?i=react,vue,js,html,css,tailwind,git,github,emotion,postgres,jest,next,ruby,rails,figma&theme=dark" alt="nunezgabriel" />
+<img align="left" src="https://skillicons.dev/icons?i=react,vue,js,html,css,tailwind,git,github,postgres,jest,next,ruby,rails,figma&theme=dark" alt="nunezgabriel" />
 </br>
 </br>
 </br>
