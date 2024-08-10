@@ -18,5 +18,5 @@
 </br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ffc9&background=0F172A00&repeat=false&width=535&lines=Stats%3A">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunezgabriel&layout=compact&theme=tokyonight" alt="nunezgabriel" /></p>
-<p><img align="rigth" src="./hollor_knight3.gif" /></p>
+<p><img align="rigth" src="./assets/hollor_knight3.gif" /></p>
 
