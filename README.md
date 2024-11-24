@@ -17,7 +17,7 @@
 </br>
 </br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF0000&repeat=false&width=435&lines=Stats%3A">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunezgabriel&layout=compact&theme=tokyonight" alt="nunezgabriel" /> <img align="right" width=160 height=160 src="./assets/download-unscreen.gif" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunezgabriel&layout=compact&theme=tokyonight" alt="nunezgabriel" /> <img align="right" width=260 height=260 src="./assets/download-unscreen.gif" /></p>
 
 
 
