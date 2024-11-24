@@ -11,7 +11,7 @@
   </li>
 </ul>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ffc9&background=0F172A00&repeat=false&width=535&lines=Skills%3A">
+<img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF0000&repeat=false&width=435&lines=Skills%3A">
 <img align="left" src="https://skillicons.dev/icons?i=react,next,js,ts,python,html,css,tailwind,git,github,jest,ruby,rails&theme=dark" alt="nunezgabriel" />
 </br>
 </br>
