@@ -11,12 +11,12 @@
   </li>
 </ul>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF0000&repeat=false&width=435&lines=Skills%3A">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=12f6fe&repeat=false&width=435&lines=Skills%3A">
 <img align="left" src="https://skillicons.dev/icons?i=react,next,js,ts,python,html,css,tailwind,git,github,jest,ruby,rails&theme=dark" alt="nunezgabriel" />
 </br>
 </br>
 </br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF0000&repeat=false&width=435&lines=Stats%3A">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=12f6fe&repeat=false&width=435&lines=Stats%3A">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunezgabriel&layout=compact&theme=highcontrast" alt="nunezgabriel" /> <img align="right" width=260 height=260 src="./assets/download-unscreen.gif" /></p>
 
 
