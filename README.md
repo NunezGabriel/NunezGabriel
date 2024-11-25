@@ -1,5 +1,5 @@
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF0000&width=435&lines=Hi+there%2C+I'm+Gabriel.;Welcome+to+my+profile!">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=12f6fe&width=435&lines=Hi+there%2C+I'm+Gabriel.;Welcome+to+my+profile!">
 <ul>
   <li>🧑‍💻 I'm a full-stack developer with a soft spot for React and related technologies, so I lean towards the frontend. </li>
   <li>⚡ Fun fact: Feel free to call me Gabo.</li>
