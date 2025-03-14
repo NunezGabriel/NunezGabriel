@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="./assets/plZA0Vk.gif" />
+</div>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=9140fd&width=435&lines=Hi+there%2C+I'm+Gabriel.;Welcome+to+my+profile!">
 <ul>
   <li>🧑‍💻 I'm a full-stack developer with a soft spot for React and related technologies, so I lean towards the frontend. </li>
@@ -17,9 +20,6 @@
 </br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=9140fd&repeat=false&width=435&lines=Stats%3A">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunezgabriel&layout=compact&theme=tokyonight" alt="nunezgabriel" />
-<div align="center">
-  <img src="./assets/plZA0Vk.gif" />
-</div>
 
 
 
