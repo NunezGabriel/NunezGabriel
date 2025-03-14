@@ -1,5 +1,5 @@
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=c700ff&width=435&lines=Hi+there%2C+I'm+Gabriel.;Welcome+to+my+profile!">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=9140fd&width=435&lines=Hi+there%2C+I'm+Gabriel.;Welcome+to+my+profile!">
 <ul>
   <li>🧑‍💻 I'm a full-stack developer with a soft spot for React and related technologies, so I lean towards the frontend. </li>
   <li>⚡ Fun fact: Feel free to call me Gabo.</li>
@@ -11,13 +11,13 @@
   </li>
 </ul>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=c700ff&repeat=false&width=435&lines=Skills%3A">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=9140fd&repeat=false&width=435&lines=Skills%3A">
 <img align="left" src="https://skillicons.dev/icons?i=react,next,js,ts,python,html,css,tailwind,java,git,github,jest,ruby,rails&theme=dark" alt="nunezgabriel" />
 </br>
 </br>
 </br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=c700ff&repeat=false&width=435&lines=Stats%3A">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunezgabriel&layout=compact&theme=tokyonight" alt="nunezgabriel" /> <img align="right" src="./assets/plZA0Vk.gif" /></p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=9140fd&repeat=false&width=435&lines=Stats%3A">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunezgabriel&layout=compact&theme=tokyonight" alt="nunezgabriel" /> <img align="" src="./assets/plZA0Vk.gif" /></p>
 
 
 
