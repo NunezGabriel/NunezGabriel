@@ -13,12 +13,12 @@
   </li>
 </ul>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=9140fd&repeat=false&width=435&lines=Skills%3A">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=be1e7a&repeat=false&width=435&lines=Skills%3A">
 <img align="left" src="https://skillicons.dev/icons?i=react,next,js,ts,python,html,css,tailwind,java,github,docker,jest,ruby,rails&theme=dark" alt="nunezgabriel" />
 </br>
 </br>
 </br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=9140fd&repeat=false&width=435&lines=Stats%3A">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=be1e7a&repeat=false&width=435&lines=Stats%3A">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunezgabriel&layout=compact&theme=tokyonight" alt="nunezgabriel" />
 
 
