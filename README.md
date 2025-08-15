@@ -13,6 +13,8 @@
   </li>
 </ul>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=emilio.nunez.arenas)
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=d12c37&repeat=false&width=435&lines=Skills%3A">
 <img align="left" src="https://skillicons.dev/icons?i=react,next,js,ts,python,html,css,tailwind,java,github,docker,jest,ruby,rails&theme=dark" alt="nunezgabriel" />
 </br>
