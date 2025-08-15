@@ -18,7 +18,7 @@
 </br>
 </br>
 </br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=9542fe&repeat=false&width=435&lines=Stats%3A">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=d12c37&repeat=false&width=435&lines=Stats%3A">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunezgabriel&layout=compact&theme=tokyonight" alt="nunezgabriel" />
 
 
