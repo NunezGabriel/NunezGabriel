@@ -1,3 +1,7 @@
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=NunezGabriel.NunezGabriel&"  />
+</div>
+
 <div align="center">
   <img src="./assets/redOniNobg.gif" />
 </div>
@@ -20,10 +24,6 @@
 </br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=d12c37&repeat=false&width=435&lines=Stats%3A">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunezgabriel&layout=compact&theme=tokyonight" alt="nunezgabriel" />
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=NunezGabriel.NunezGabriel&"  />
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
