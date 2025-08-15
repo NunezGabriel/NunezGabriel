@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/plZA0Vk.gif" />
+  <img src="./assets/redOniNobg.gif" />
 </div>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=d12c37&width=435&lines=Hi+there%2C+I'm+Gabriel.;Welcome+to+my+profile!">
 <ul>
