@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="width:100%; background-color:black; padding:20px 0;">
   <img src="./assets/oniRed.gif" />
 </div>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=9542fe&width=435&lines=Hi+there%2C+I'm+Gabriel.;Welcome+to+my+profile!">
