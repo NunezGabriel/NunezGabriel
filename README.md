@@ -26,7 +26,9 @@
 </div>
 
 ###
+
 <img src="https://raw.githubusercontent.com/NunezGabriel/NunezGabriel/output/snake.svg" alt="Snake animation" />
+
 ###
 
 
