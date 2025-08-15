@@ -25,9 +25,4 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=d12c37&repeat=false&width=435&lines=Stats%3A">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunezgabriel&layout=compact&theme=tokyonight" alt="nunezgabriel" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nunezgabriel/nunezgabriel/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nunezgabriel/nunezgabriel/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nunezgabriel/nunezgabriel/output/github-contribution-grid-snake.svg">
-</picture>
-
+![snake gif](https://github.com/nunezgabriel/nunezgabriel/blob/output/github-snake-dark.svg)
