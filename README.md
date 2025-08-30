@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <img src="./assets/lastTry-unscreen.gif" />
-   <img src="./assets/lastTry-unscreen.gif" />
+  <img src="./assets/OniCyberNb.gif" />
+   <img src="./assets/OniCyberNb.gif" />
 </div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=fa284e&width=435&lines=Hi+there%2C+I'm+Gabriel.;Welcome+to+my+profile!">
