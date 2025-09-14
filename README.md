@@ -7,7 +7,7 @@
           <img src="https://visitor-badge.laobi.icu/badge?page_id=NunezGabriel.NunezGabriel&"  />
         </div>
         <div align="center">
-          <img src="./assets/noodle.gif" style="width: 100%; height: 200px; object-fit: cover;" />
+          <img src="./assets/noodle.gif" style="width: 300px; height: 200px; object-fit: cover;" />
         </div>
       </td>
       <td>
