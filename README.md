@@ -1,3 +1,4 @@
+
 <div align="center">
   <table>
     <tr>
@@ -6,11 +7,11 @@
           <img src="https://visitor-badge.laobi.icu/badge?page_id=NunezGabriel.NunezGabriel&"  />
         </div>
         <div align="center">
-          <img src="./assets/OniCyberNb.gif" />
+          <img src="./assets/noodle.gif" style="width: 100%; height: 200px; object-fit: cover;" />
         </div>
       </td>
       <td>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=fa284e&width=435&lines=Hi+there%2C+I'm+Gabriel.;Welcome+to+my+profile!">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=387e68&width=435&lines=Hi+there%2C+I'm+Gabriel.;Welcome+to+my+profile!">
         <ul>
           <li>🧑‍💻 I'm a full-stack developer with a soft spot for React and related technologies, so I lean towards the frontend. </li>
           <li>⚡ Fun fact: Feel free to call me Gabo.</li>
@@ -30,7 +31,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=fa284e&repeat=false&width=435&lines=Skills%3A">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=65e1ba&repeat=false&width=435&lines=Skills%3A">
         <br>
         <img src="https://skillicons.dev/icons?i=react,next,js,ts,django,python,html,css,tailwind,java,github,docker,jest,ruby,rails&theme=dark" alt="nunezgabriel" />
       </td>
