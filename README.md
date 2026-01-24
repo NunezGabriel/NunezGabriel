@@ -1,7 +1,5 @@
-<h2 align="center">👋 Hi there, I'm Gabriel</h2>
-
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=NunezGabriel.NunezGabriel&color=64fba5"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=1000&color=56D200FF&center=true&repeat=true&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Gabriel;%F0%9F%91%BE+Let's+Work+%F0%9F%91%BE"/>
 </p>
 
 <hr/>
@@ -27,7 +25,13 @@ LinkedIn: <a href="https://www.linkedin.com/in/gabriel-nunez">linkedin.com/in/ga
 
 <br/>
 
-<h2 align="center">☕ Statistics</h2>
+<h2 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=A7CD05&center=true&repeat=false&width=435&lines=%F0%9F%94%B0+Statistics"/>  
+</h2>
+
+<p align="center">
+  
+</p>
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=nunezgabriel&show_icons=true&count_private=true&hide=issues,contribs&theme=merko&hide_border=true&bg_color=00000000"/>
@@ -44,7 +48,9 @@ LinkedIn: <a href="https://www.linkedin.com/in/gabriel-nunez">linkedin.com/in/ga
 
 <br/>
 
-<h2 align="center">🌱 My Skills</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=68B587&center=true&repeat=false&width=435&lines=%F0%9F%8C%B1+My+Skills"/>
+</h2>
 
 <h4 align="center">💻 Programming Languages</h4>
 
