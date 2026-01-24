@@ -25,7 +25,6 @@ Email: <a href="mailto:gabriel.nunez.arenas@gmail.com">gabriel.nunez.arenas@gmai
 LinkedIn: <a href="https://www.linkedin.com/in/gabriel-nunez">linkedin.com/in/gabriel-nunez</a>
 </p>
 
-
 <br/>
 
 <h2 align="center">☕ Statistics</h2>
@@ -48,43 +47,73 @@ LinkedIn: <a href="https://www.linkedin.com/in/gabriel-nunez">linkedin.com/in/ga
 <h2 align="center">🌱 My Skills</h2>
 
 <h4 align="center">💻 Programming Languages</h4>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-0f9d58?logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-0f9d58?logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-0f9d58?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ruby-0f9d58?logo=ruby&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-0f9d58?logo=java&logoColor=white"/>
+<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+<a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></a>
+<a href="#"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white"></a>
+<img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"/>
+<img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"/>
+<img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-007396.svg?logo=sql&logoColor=white"/>
+<a href="https://github.com/search?q=user%3ATU_USUARIO+language%3Abash">
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
+</a>
+<a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white"></a>
+<a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white"></a>
 </p>
+
 
 <h4 align="center">📚 Frameworks & Libraries</h4>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/React-2e7d32?logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-2e7d32?logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-2e7d32?logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rails-2e7d32?logo=rubyonrails&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-2e7d32?logo=tailwindcss&logoColor=white"/>
+<a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
+<a href="#"><img alt="NextJS" src="https://img.shields.io/badge/NextJS-000000.svg?logo=nextdotjs&logoColor=white"></a>
+<a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white"></a>
+<a href="#"><img alt="Rails" src="https://img.shields.io/badge/Rails-CC0000.svg?logo=rubyonrails&logoColor=white"></a>
+<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59.svg?logo=express&logoColor=white"></a>
+<a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4.svg?logo=tailwindcss&logoColor=white"></a>
+<a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white"></a>
+<a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098.svg?logo=graphql&logoColor=white"></a>
+<a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white"></a>
+<a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F.svg?logo=springboot&logoColor=white"></a>
+<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+<a href="#"><img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699.svg?logo=sass&logoColor=white"></a>
+
 </p>
 
+
 <h4 align="center">⚙️ Dev & Infra Tools</h4>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-1b5e20?logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-1b5e20?logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI/CD-1b5e20?logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-1b5e20?logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Coolify-1b5e20?logo=coolify&logoColor=white"/>
+<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+<a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=githubactions&logoColor=white"></a>
+<a href="#"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white"></a>
+<img alt="CI/CD" src="https://img.shields.io/badge/CI/CD-000000.svg?logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Coolify-6b16ed?logo=coolify&logoColor=white"/>
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-0078D4.svg?logo=visualstudiocode&logoColor=white"></a>
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white"></a>
+<a href="#"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-4000BF.svg?logo=insomnia&logoColor=white"></a>
+<a href="#"><img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-179287.svg?logo=gitkraken&logoColor=white"></a>
+<a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"></a>
+<a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33.svg?logo=debian&logoColor=white"></a>
+
+
 </p>
+
 
 <h4 align="center">☁️ Cloud & Databases</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-33691e?logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DigitalOcean-33691e?logo=digitalocean&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-33691e?logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-33691e?logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Heroku-33691e?logo=heroku&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-33691e?logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-33691e?logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-33691e?logo=redis&logoColor=white"/>
-  
+<a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=awsamazon&logoColor=white"></a>
+<a href="#"><img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-0080FF.svg?logo=digitalocean&logoColor=white"></a>
+<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+<a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7.svg?logo=netlify&logoColor=white"></a>
+<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
+<a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white"></a>
+<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"></a>
+<a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
+<a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white"></a>
 </p>
 
 <p align="center">
@@ -94,5 +123,3 @@ LinkedIn: <a href="https://www.linkedin.com/in/gabriel-nunez">linkedin.com/in/ga
 <br/>
 <h2 align="center">📌 Pinned Repositories</h2>
 <p align="center">Some projects that reflect what I enjoy building.</p>
-
-
