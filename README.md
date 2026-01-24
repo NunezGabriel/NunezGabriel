@@ -13,14 +13,15 @@
       <td>
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=64fba5&width=435&lines=Hi+there%2C+I'm+Gabriel.;Welcome+to+my+profile!">
         <ul>
-          <li>🧑‍💻 I'm a software developer with a soft spot for React and related technologies, so I lean towards the frontend. </li>
-          <li>⚡ Fun fact: Feel free to call me Gabo.</li>
-          <li>📫 Get in touch!
+            <li>🧑‍💻 Software Engineer focused on building web systems and shipping them into production, with growing experience in cloud-based deployments.</li>
+            <li>🚀 I work mainly with JavaScript and Python stacks, handling everything from development to Dockerized deployments and CI/CD workflows.</li>
+            <li>⚡ Fun fact: Feel free to call me Gabo.</li>
+            <li>📫 Get in touch!
               <ul>
                 <li>My <a href="mailto:gabriel.nunez.arenas@gmail.com">email</a></li>
-                <li>My <a href="https://www.linkedin.com/feed/">linkedin</a></li>
+                <li>My <a href="https://www.linkedin.com/feed/">LinkedIn</a></li>
               </ul>
-          </li>
+            </li>
         </ul>
       </td>
     </tr>
