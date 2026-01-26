@@ -3,7 +3,7 @@
 </h2>
 <br/>
 
-<img align="right" src="./assets/tuxy.gif" width="25%" style="margin-left: 40px;"/>
+<img align="right" src="./assets/tuxy.gif" width="25%" style="margin-left: 40px;"/> 
 
 {
 
