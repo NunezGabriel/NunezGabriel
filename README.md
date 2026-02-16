@@ -1,4 +1,4 @@
-<h2 align="center">
+<h2 align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=1000&color=56D200FF&center=true&repeat=true&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Gabriel;%F0%9F%91%BE+Let's+Work+%F0%9F%91%BE"/>
 </h2>
 <br/>
