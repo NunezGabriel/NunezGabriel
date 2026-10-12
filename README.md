@@ -46,6 +46,9 @@
 
 <img align="left" width="200" src="./assets/duke.gif" alt="Waving Duke"/>
 
+<br>
+<br>
+
 <p>
   Software engineer with <b>Java &amp; Spring Boot</b> as my main stack, but not tied to a single tool:
   I've also built with <b>Django, Express, Rails, React and Next.js</b>, so I can move across backend and frontend.
@@ -55,6 +58,8 @@
   where cloud and data go hand in hand.
 </p>
 
+<br clear="left"/>
+<br clear="both"/>
 <br clear="both"/>
 
 ```java
