@@ -44,7 +44,7 @@
 <!-- ===================== ABOUT ===================== -->
 <h3 align="center">⬥ About Me ⬥</h3>
 
-<img align="right" width="230" src="./assets/OniCyberNb.gif" alt="Red oni"/>
+<img align="right" width="200" src="./assets/duke.gif" alt="Waving Duke"/>
 
 <p>
   Software engineer with <b>Java &amp; Spring Boot</b> as my main stack, but not tied to a single tool:
@@ -78,34 +78,35 @@ public class Gabriel extends SoftwareEngineer {
 <h3 align="center">⬥ Tech Stack &amp; Tools ⬥</h3>
 
 <div align="center">
-  <img src="./assets/cubes.gif" width="170" alt="Cubes"/>
+  <img src="./assets/oni-red.gif" width="170" alt="Red oni"/>
+  &nbsp;&nbsp;
+  <img src="./assets/oni-purple.gif" width="170" alt="Purple oni"/>
 </div>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
+      <td align="center" width="33%">
         <b>⬥ Languages</b><br/><br/>
-        <img src="https://skillicons.dev/icons?i=java,py,js,ts,ruby" alt="Languages"/><br/>
-        <img src="https://skillicons.dev/icons?i=cs,bash,html,css" alt="Languages"/>&nbsp;<img src="./assets/icons/sql.svg" height="48" alt="SQL"/>
+        <img src="https://skillicons.dev/icons?i=java,py,js,ts" alt="Languages"/><br/>
+        <img src="https://skillicons.dev/icons?i=ruby,cs,bash" alt="Languages"/><br/>
+        <img src="https://skillicons.dev/icons?i=html,css" alt="Languages"/>&nbsp;<img src="./assets/icons/sql.svg" height="48" alt="SQL"/>
       </td>
-      <td align="center" width="50%">
+      <td align="center" width="33%">
         <b>⬥ Backend</b><br/><br/>
         <img src="https://skillicons.dev/icons?i=spring,django,nodejs,express,rails,graphql&perline=3" alt="Backend"/>
       </td>
-    </tr>
-    <tr>
-      <td align="center">
+      <td align="center" width="33%">
         <b>⬥ Frontend</b><br/><br/>
         <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass,unity&perline=3" alt="Frontend"/>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <b>⬥ Data &amp; Databases</b><br/><br/>
         <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Databases"/><br/>
         <img src="https://skillicons.dev/icons?i=anaconda" height="48" alt="Conda"/>&nbsp;<img src="./assets/icons/pandas.svg" height="48" alt="Pandas"/>&nbsp;<img src="./assets/icons/jupyter.svg" height="48" alt="Jupyter"/>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <b>⬥ Cloud &amp; Deploy</b><br/><br/>
         <img src="https://skillicons.dev/icons?i=aws,vercel,netlify" alt="Cloud"/><br/>
