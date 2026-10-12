@@ -44,7 +44,7 @@
 <!-- ===================== ABOUT ===================== -->
 <h3 align="center">⬥ About Me ⬥</h3>
 
-<img align="right" width="200" src="./assets/duke.gif" alt="Waving Duke"/>
+<img align="left" width="200" src="./assets/duke.gif" alt="Waving Duke"/>
 
 <p>
   Software engineer with <b>Java &amp; Spring Boot</b> as my main stack, but not tied to a single tool:
@@ -80,7 +80,7 @@ public class Gabriel extends SoftwareEngineer {
 <div align="center">
   <img src="./assets/oni-red.gif" width="170" alt="Red oni"/>
   &nbsp;&nbsp;
-  <img src="./assets/oni-purple.gif" width="170" alt="Purple oni"/>
+  <img src="./assets/oni-purple.gif" width="195" alt="Purple oni"/>
 </div>
 
 <div align="center">
