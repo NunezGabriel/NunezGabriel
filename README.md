@@ -1,130 +1,130 @@
-<h2 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=1000&color=56D200FF&center=true&repeat=true&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Gabriel;%F0%9F%91%BE+Let's+Work+%F0%9F%91%BE"/>
-</h2>
-<br/> 
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4429,100:26a641&height=220&section=header&text=Gabriel%20N%C3%BA%C3%B1ez&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Backend%20%E2%86%92%20Data%20Engineering&descSize=18&descAlignY=58&animation=fadeIn" alt="header"/>
+</p>
 
-<img align="right" src="./assets/tuxy.gif" width="25%" style="margin-left: 40px;"/> 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Gabriel+%F0%9F%91%8B;Java+%26+Spring+Boot+is+my+main+stack+%E2%98%95;Backend-first%2C+full+stack+when+needed+%F0%9F%A7%A9;Migrating+to+Data+Engineering+%F0%9F%94%84;Organizer+%40+GDG+Arequipa+%F0%9F%92%99" alt="typing"/>
+</p>
 
-{
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-nunez"><img height="40" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="mailto:gabriel.nunez.arenas@gmail.com"><img height="40" src="https://skillicons.dev/icons?i=gmail" alt="Email"/></a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=nunezgabriel&color=26a641&style=flat-square&label=Profile+views" alt="profile views"/>
+</p>
 
-* 🧑‍💻 `Role`: **Software Engineer**,
-* 🌐 `Focus`: **Web systems & production-ready apps**,
-* ⚙️ `Stack`: **JavaScript · Python**,
-* ☁️ `Deploy`: **Docker · CI/CD · Cloud platforms**,
-* 🌱 `Currently learning`: **Cloud infrastructure & modern deployment workflows**,
-* ⚡ `Alias`: **Gabo**
+<!-- ===================== ABOUT ===================== -->
+<h2>🧑‍💻 About me</h2>
 
+<p align="center">
+  <img width="520" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="developer at work"/>
+</p>
+
+Software engineer with **Java & Spring Boot** as my main stack, but not tied to a single tool:
+I've also built with **Django, Express, Rails, React and Next.js**, and I'm comfortable on the frontend too.
+Currently moving into **Data Engineering**, where cloud and data go hand in hand.
+
+```java
+public class Gabriel extends SoftwareEngineer {
+
+    String alias     = "Gabo";
+    String mainStack = "Java · Spring Boot";
+    String focus     = "Backend → Data Engineering";
+
+    List<String> alsoWorkedWith = List.of("Django", "Express", "Rails", "React", "Next.js");
+
+    String community() {
+        return "Organizer @ GDG Arequipa";
+    }
 }
+```
 
-<p>
-📫 <b>Get in touch</b><br/>
-Email: <a href="mailto:gabriel.nunez.arenas@gmail.com">gabriel.nunez.arenas@gmail.com</a><br/>
-LinkedIn: <a href="https://www.linkedin.com/in/gabriel-nunez">linkedin.com/in/gabriel-nunez</a>
-</p>
-
-<br/>
-
-<h2 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=A7CD05&center=true&repeat=false&width=435&lines=%F0%9F%94%B0+Statistics"/>  
-</h2>
+<!-- ===================== COMMUNITY ===================== -->
+<h2>🌎 Community</h2>
 
 <p align="center">
-  
+  <a href="https://gdg.community.dev/gdg-arequipa/">
+    <img width="140" src="./assets/google-developers.svg" alt="Google Developer Groups"/>
+  </a>
+  <br/>
+  <b>Organizer @ <a href="https://gdg.community.dev/gdg-arequipa/">GDG Arequipa</a></b>
+  <br/>
+  <sub>Building and growing the developer community in Arequipa 🇵🇪</sub>
 </p>
 
+<!-- ===================== STACK ===================== -->
+<h2>🛠️ Tech Stack</h2>
+
+<h4 align="center">☕ Main Stack</h4>
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nunezgabriel&show_icons=true&count_private=true&hide=issues,contribs&theme=merko&hide_border=true&bg_color=00000000"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunezgabriel&layout=compact&theme=merko&hide_border=true&bg_color=00000000"/>
+  <img height="64" src="https://skillicons.dev/icons?i=java,spring" alt="Java & Spring Boot"/>
 </p>
 
+<h4 align="center">💻 Languages</h4>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nunezgabriel&theme=merko&hide_border=true&background=FFFFFF00"/>
+  <img src="https://skillicons.dev/icons?i=java,py,js,ts,ruby,cs,bash,html,css" alt="languages"/>
+  <br/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
+<h4 align="center">⚙️ Backend</h4>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nunezgabriel&theme=matrix&margin-w=10"/>
+  <img src="https://skillicons.dev/icons?i=spring,django,nodejs,express,rails,graphql" alt="backend"/>
 </p>
 
-<br/>
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=68B587&center=true&repeat=false&width=435&lines=%F0%9F%8C%B1+My+Skills"/>
-</h2>
-
-<h4 align="center">💻 Programming Languages</h4>
-
+<h4 align="center">🎨 Frontend &amp; Others</h4>
 <p align="center">
-<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-<a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></a>
-<a href="#"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white"></a>
-<img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"/>
-<img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"/>
-<img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-007396.svg?logo=sql&logoColor=white"/>
-<a href="https://github.com/search?q=user%3ATU_USUARIO+language%3Abash">
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
-</a>
-<a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white"></a>
-<a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white"></a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass,unity" alt="frontend"/>
 </p>
 
-
-<h4 align="center">📚 Frameworks & Libraries</h4>
-
+<h4 align="center">🗄️ Databases</h4>
 <p align="center">
-<a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
-<a href="#"><img alt="NextJS" src="https://img.shields.io/badge/NextJS-000000.svg?logo=nextdotjs&logoColor=white"></a>
-<a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white"></a>
-<a href="#"><img alt="Rails" src="https://img.shields.io/badge/Rails-CC0000.svg?logo=rubyonrails&logoColor=white"></a>
-<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59.svg?logo=express&logoColor=white"></a>
-<a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4.svg?logo=tailwindcss&logoColor=white"></a>
-<a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white"></a>
-<a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098.svg?logo=graphql&logoColor=white"></a>
-<a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white"></a>
-<a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F.svg?logo=springboot&logoColor=white"></a>
-<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-<a href="#"><img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699.svg?logo=sass&logoColor=white"></a>
-
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="databases"/>
 </p>
 
-
-<h4 align="center">⚙️ Dev & Infra Tools</h4>
-
+<h4 align="center">☁️ Cloud &amp; Deploy</h4>
 <p align="center">
-<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-<a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=githubactions&logoColor=white"></a>
-<a href="#"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white"></a>
-<img alt="CI/CD" src="https://img.shields.io/badge/CI/CD-000000.svg?logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Coolify-6b16ed?logo=coolify&logoColor=white"/>
-<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-0078D4.svg?logo=visualstudiocode&logoColor=white"></a>
-<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white"></a>
-<a href="#"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-4000BF.svg?logo=insomnia&logoColor=white"></a>
-<a href="#"><img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-179287.svg?logo=gitkraken&logoColor=white"></a>
-<a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"></a>
-<a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33.svg?logo=debian&logoColor=white"></a>
-
-
+  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,heroku" alt="cloud"/>
+  <br/>
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean"/>
+  <img src="https://img.shields.io/badge/Coolify-6B16ED?style=for-the-badge&logo=coolify&logoColor=white" alt="Coolify"/>
 </p>
 
-
-<h4 align="center">☁️ Cloud & Databases</h4>
+<h4 align="center">🧰 Dev &amp; Infra Tools</h4>
 <p align="center">
-<a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=awsamazon&logoColor=white"></a>
-<a href="#"><img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-0080FF.svg?logo=digitalocean&logoColor=white"></a>
-<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
-<a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7.svg?logo=netlify&logoColor=white"></a>
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-<a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white"></a>
-<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"></a>
-<a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
-<a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white"></a>
+  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,nginx,ubuntu,debian,vscode,postman" alt="tools"/>
+  <br/>
+  <img src="https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=git&logoColor=white" alt="CI/CD"/>
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia"/>
+  <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white" alt="GitKraken"/>
+</p>
+
+<!-- ===================== STATS ===================== -->
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nunezgabriel&show_icons=true&hide=issues,contribs&rank_icon=github&theme=merko&hide_border=true&bg_color=00000000" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunezgabriel&layout=compact&langs_count=8&theme=merko&hide_border=true&bg_color=00000000" alt="top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/nunezgabriel/nunezgabriel/blob/output/github-snake-dark.svg" alt="snake animation"/>
+  <img src="https://streak-stats.demolab.com?user=nunezgabriel&theme=merko&hide_border=true&background=FFFFFF00" alt="streak"/>
 </p>
 
-<br/>
-<h2 align="center">📌 Pinned Repositories</h2>
-<p align="center">Some projects that reflect what I enjoy building.</p>
+<!-- ===================== SNAKE ===================== -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nunezgabriel/nunezgabriel/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nunezgabriel/nunezgabriel/output/github-snake.svg"/>
+    <img alt="snake animation" src="https://raw.githubusercontent.com/nunezgabriel/nunezgabriel/output/github-snake-dark.svg"/>
+  </picture>
+</p>
+
+<p align="center"><b>📌 Check out my pinned projects below 👇</b></p>
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:26a641,50:0e4429,100:0d1117&height=120&section=footer" alt="footer"/>
+</p>
