@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&color=0:39D353,55:26A641,100:8957E5" alt="Header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&color=0:291648,50:671742,100:E8435A" alt="Header"/>
 </div>
 
 <div align="center">
@@ -8,9 +8,9 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=2500&pause=100000&color=39D353&center=true&vCenter=true&repeat=false&width=760&height=80&lines=Gabriel+N%C3%BA%C3%B1ez" alt="Gabriel Núñez"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=2500&pause=100000&color=E8435A&center=true&vCenter=true&repeat=false&width=760&height=80&lines=Gabriel+N%C3%BA%C3%B1ez" alt="Gabriel Núñez"/>
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2600&pause=900&color=A371F7&center=true&vCenter=true&width=760&lines=Software+Engineer;Java+%26+Spring+Boot+is+my+main+stack;Backend-first%2C+full+stack+when+needed;Migrating+to+Data+Engineering;Organizer+%40+GDG+Arequipa" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2600&pause=900&color=A66CFF&center=true&vCenter=true&width=760&lines=Software+Engineer;Java+%26+Spring+Boot+is+my+main+stack;Backend-first%2C+full+stack+when+needed;Migrating+to+Data+Engineering;Organizer+%40+GDG+Arequipa" alt="Typing SVG"/>
 </div>
 
 <div align="center">
@@ -44,7 +44,7 @@
 <!-- ===================== ABOUT ===================== -->
 <h3 align="center">⬥ About Me ⬥</h3>
 
-<img align="right" width="300" src="./assets/catcode.gif" alt="Cat coding"/>
+<img align="right" width="230" src="./assets/OniCyberNb.gif" alt="Red oni"/>
 
 <p>
   Software engineer with <b>Java &amp; Spring Boot</b> as my main stack, but not tied to a single tool:
@@ -78,19 +78,18 @@ public class Gabriel extends SoftwareEngineer {
 <h3 align="center">⬥ Tech Stack &amp; Tools ⬥</h3>
 
 <div align="center">
+  <img src="./assets/cubes.gif" width="170" alt="Cubes"/>
+</div>
+
+<div align="center">
   <table>
     <tr>
-      <td align="center" rowspan="3" width="22%">
-        <img src="./assets/cubes.gif" width="160" alt="Cubes"/>
-        <br/><br/>
-        <img src="./assets/orb.gif" width="160" alt="Orb"/>
-      </td>
-      <td align="center" width="39%">
+      <td align="center" width="50%">
         <b>⬥ Languages</b><br/><br/>
         <img src="https://skillicons.dev/icons?i=java,py,js,ts,ruby" alt="Languages"/><br/>
         <img src="https://skillicons.dev/icons?i=cs,bash,html,css" alt="Languages"/>&nbsp;<img src="./assets/icons/sql.svg" height="48" alt="SQL"/>
       </td>
-      <td align="center" width="39%">
+      <td align="center" width="50%">
         <b>⬥ Backend</b><br/><br/>
         <img src="https://skillicons.dev/icons?i=spring,django,nodejs,express,rails,graphql&perline=3" alt="Backend"/>
       </td>
@@ -130,30 +129,22 @@ public class Gabriel extends SoftwareEngineer {
 
 <div align="center">
   <img src="./assets/hollor_knight3.gif" height="110" align="absmiddle" alt="Pixel knight"/>
-  <img src="https://streak-stats.demolab.com?user=nunezgabriel&background=0D1117&hide_border=true&ring=39D353&fire=A371F7&currStreakNum=FFFFFF&currStreakLabel=39D353&sideNums=FFFFFF&sideLabels=A371F7&dates=8B949E&stroke=30363D" align="absmiddle" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=nunezgabriel&background=0D1117&hide_border=true&ring=A66CFF&fire=E8435A&currStreakNum=FFFFFF&currStreakLabel=E8435A&sideNums=FFFFFF&sideLabels=A66CFF&dates=8B949E&stroke=30363D" align="absmiddle" alt="GitHub Streak"/>
   <img src="./assets/d9tnfw0-a8064ec6-c506-438c-b0de-b9c2cda9e818.gif" height="110" align="absmiddle" alt="Pixel sans"/>
   <br/><br/>
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=nunezgabriel&show_icons=true&hide=issues,contribs&rank_icon=github&hide_border=true&title_color=39D353&icon_color=A371F7&text_color=C9D1D9&ring_color=39D353&bg_color=0D1117" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=nunezgabriel&show_icons=true&hide=issues,contribs&rank_icon=github&hide_border=true&title_color=E8435A&icon_color=A66CFF&text_color=C9D1D9&ring_color=E8435A&bg_color=0D1117" alt="GitHub Stats"/>
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunezgabriel&layout=compact&langs_count=8&hide_border=true&title_color=39D353&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunezgabriel&layout=compact&langs_count=8&hide_border=true&title_color=E8435A&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages"/>
       </td>
     </tr>
   </table>
 </div>
 
 <br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nunezgabriel/nunezgabriel/output/pacman-contribution-graph-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nunezgabriel/nunezgabriel/output/pacman-contribution-graph.svg"/>
-    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/nunezgabriel/nunezgabriel/output/pacman-contribution-graph-dark.svg"/>
-  </picture>
-</div>
 
 <div align="center">
   <picture>
@@ -169,11 +160,9 @@ public class Gabriel extends SoftwareEngineer {
 
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
-  <img src="./assets/loading.gif" width="220" alt="Connecting"/>
-  <br/>
   <sub>⬥ Check out my pinned projects below ⬥</sub>
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:8957E5,45:26A641,100:39D353" alt="Footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:E8435A,50:671742,100:291648" alt="Footer"/>
 </div>
