@@ -1,30 +1,61 @@
 <!-- ===================== HEADER ===================== -->
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4429,100:26a641&height=220&section=header&text=Gabriel%20N%C3%BA%C3%B1ez&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Backend%20%E2%86%92%20Data%20Engineering&descSize=18&descAlignY=58&animation=fadeIn" alt="header"/>
-</p>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&color=0:39D353,55:26A641,100:8957E5" alt="Header"/>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Gabriel+%F0%9F%91%8B;Java+%26+Spring+Boot+is+my+main+stack+%E2%98%95;Backend-first%2C+full+stack+when+needed+%F0%9F%A7%A9;Migrating+to+Data+Engineering+%F0%9F%94%84;Organizer+%40+GDG+Arequipa+%F0%9F%92%99" alt="typing"/>
-</p>
+<div align="center">
+  <img src="./assets/mario.gif" width="100%" alt="Retro pixel room"/>
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-nunez"><img height="40" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="mailto:gabriel.nunez.arenas@gmail.com"><img height="40" src="https://skillicons.dev/icons?i=gmail" alt="Email"/></a>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=nunezgabriel&color=26a641&style=flat-square&label=Profile+views" alt="profile views"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=2500&pause=100000&color=39D353&center=true&vCenter=true&repeat=false&width=760&height=80&lines=Gabriel+N%C3%BA%C3%B1ez" alt="Gabriel Núñez"/>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2600&pause=900&color=A371F7&center=true&vCenter=true&width=760&lines=Software+Engineer;Java+%26+Spring+Boot+is+my+main+stack;Backend-first%2C+full+stack+when+needed;Migrating+to+Data+Engineering;Organizer+%40+GDG+Arequipa" alt="Typing SVG"/>
+</div>
+
+<div align="center">
+  <img src="./assets/divider.gif" width="100%" alt="divider"/>
+</div>
+
+<!-- ===================== CONNECT ===================== -->
+<h3 align="center">⬥ Let's Connect ⬥</h3>
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <th width="50%"><div align="center">⬥ Professional</div></th>
+      <th width="50%"><div align="center">⬥ Community</div></th>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/gabriel-nunez"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/></a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="mailto:gabriel.nunez.arenas@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email"/></a>
+      </td>
+      <td align="center">
+        <a href="https://gdg.community.dev/gdg-arequipa/"><img src="./assets/google-developers.svg" height="64" alt="GDG Arequipa"/></a>
+        <br/>
+        <sub><b>Organizer @ GDG Arequipa</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- ===================== ABOUT ===================== -->
-<h2>🧑‍💻 About me</h2>
+<h3 align="center">⬥ About Me ⬥</h3>
 
-<p align="center">
-  <img width="520" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="developer at work"/>
+<img align="right" width="300" src="./assets/catcode.gif" alt="Cat coding"/>
+
+<p>
+  Software engineer with <b>Java &amp; Spring Boot</b> as my main stack, but not tied to a single tool:
+  I've also built with <b>Django, Express, Rails, React and Next.js</b>, so I can move across backend and frontend.
+</p>
+<p>
+  Currently migrating into <b>Data Engineering</b>, working with <b>Python, Pandas, Jupyter and Conda</b>,
+  where cloud and data go hand in hand.
 </p>
 
-Software engineer with **Java & Spring Boot** as my main stack, but not tied to a single tool:
-I've also built with **Django, Express, Rails, React and Next.js**, and I'm comfortable on the frontend too.
-Currently moving into **Data Engineering**, where cloud and data go hand in hand.
+<br clear="both"/>
 
 ```java
 public class Gabriel extends SoftwareEngineer {
@@ -32,99 +63,117 @@ public class Gabriel extends SoftwareEngineer {
     String alias     = "Gabo";
     String mainStack = "Java · Spring Boot";
     String focus     = "Backend → Data Engineering";
+    String community = "Organizer @ GDG Arequipa";
 
     List<String> alsoWorkedWith = List.of("Django", "Express", "Rails", "React", "Next.js");
-
-    String community() {
-        return "Organizer @ GDG Arequipa";
-    }
+    List<String> dataToolkit    = List.of("Python", "Pandas", "Jupyter", "Conda", "SQL");
 }
 ```
 
-<!-- ===================== COMMUNITY ===================== -->
-<h2>🌎 Community</h2>
-
-<p align="center">
-  <a href="https://gdg.community.dev/gdg-arequipa/">
-    <img width="140" src="./assets/google-developers.svg" alt="Google Developer Groups"/>
-  </a>
-  <br/>
-  <b>Organizer @ <a href="https://gdg.community.dev/gdg-arequipa/">GDG Arequipa</a></b>
-  <br/>
-  <sub>Building and growing the developer community in Arequipa 🇵🇪</sub>
-</p>
+<div align="center">
+  <img src="./assets/divider.gif" width="100%" alt="divider"/>
+</div>
 
 <!-- ===================== STACK ===================== -->
-<h2>🛠️ Tech Stack</h2>
+<h3 align="center">⬥ Tech Stack &amp; Tools ⬥</h3>
 
-<h4 align="center">☕ Main Stack</h4>
-<p align="center">
-  <img height="64" src="https://skillicons.dev/icons?i=java,spring" alt="Java & Spring Boot"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" rowspan="3" width="22%">
+        <img src="./assets/cubes.gif" width="160" alt="Cubes"/>
+        <br/><br/>
+        <img src="./assets/orb.gif" width="160" alt="Orb"/>
+      </td>
+      <td align="center" width="39%">
+        <b>⬥ Languages</b><br/><br/>
+        <img src="https://skillicons.dev/icons?i=java,py,js,ts,ruby" alt="Languages"/><br/>
+        <img src="https://skillicons.dev/icons?i=cs,bash,html,css" alt="Languages"/>&nbsp;<img src="./assets/icons/sql.svg" height="48" alt="SQL"/>
+      </td>
+      <td align="center" width="39%">
+        <b>⬥ Backend</b><br/><br/>
+        <img src="https://skillicons.dev/icons?i=spring,django,nodejs,express,rails,graphql&perline=3" alt="Backend"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>⬥ Frontend</b><br/><br/>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass,unity&perline=3" alt="Frontend"/>
+      </td>
+      <td align="center">
+        <b>⬥ Data &amp; Databases</b><br/><br/>
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Databases"/><br/>
+        <img src="https://skillicons.dev/icons?i=anaconda" height="48" alt="Conda"/>&nbsp;<img src="./assets/icons/pandas.svg" height="48" alt="Pandas"/>&nbsp;<img src="./assets/icons/jupyter.svg" height="48" alt="Jupyter"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>⬥ Cloud &amp; Deploy</b><br/><br/>
+        <img src="https://skillicons.dev/icons?i=aws,vercel,netlify" alt="Cloud"/><br/>
+        <img src="https://skillicons.dev/icons?i=heroku" height="48" alt="Heroku"/>&nbsp;<img src="./assets/icons/digitalocean.svg" height="48" alt="DigitalOcean"/>&nbsp;<img src="./assets/icons/coolify.svg" height="48" alt="Coolify"/>
+      </td>
+      <td align="center">
+        <b>⬥ Dev Tools</b><br/><br/>
+        <img src="https://skillicons.dev/icons?i=docker,git,ubuntu,debian" alt="Tools"/><br/>
+        <img src="https://skillicons.dev/icons?i=vscode,postman" alt="Tools"/>&nbsp;<img src="./assets/icons/insomnia.svg" height="48" alt="Insomnia"/>&nbsp;<img src="./assets/icons/gitkraken.svg" height="48" alt="GitKraken"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<h4 align="center">💻 Languages</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,js,ts,ruby,cs,bash,html,css" alt="languages"/>
-  <br/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-</p>
-
-<h4 align="center">⚙️ Backend</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,django,nodejs,express,rails,graphql" alt="backend"/>
-</p>
-
-<h4 align="center">🎨 Frontend &amp; Others</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass,unity" alt="frontend"/>
-</p>
-
-<h4 align="center">🗄️ Databases</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="databases"/>
-</p>
-
-<h4 align="center">☁️ Cloud &amp; Deploy</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,heroku" alt="cloud"/>
-  <br/>
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean"/>
-  <img src="https://img.shields.io/badge/Coolify-6B16ED?style=for-the-badge&logo=coolify&logoColor=white" alt="Coolify"/>
-</p>
-
-<h4 align="center">🧰 Dev &amp; Infra Tools</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,nginx,ubuntu,debian,vscode,postman" alt="tools"/>
-  <br/>
-  <img src="https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=git&logoColor=white" alt="CI/CD"/>
-  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia"/>
-  <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white" alt="GitKraken"/>
-</p>
+<div align="center">
+  <img src="./assets/divider.gif" width="100%" alt="divider"/>
+</div>
 
 <!-- ===================== STATS ===================== -->
-<h2>📊 GitHub Stats</h2>
+<h3 align="center">⬥ GitHub Analytics ⬥</h3>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nunezgabriel&show_icons=true&hide=issues,contribs&rank_icon=github&theme=merko&hide_border=true&bg_color=00000000" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunezgabriel&layout=compact&langs_count=8&theme=merko&hide_border=true&bg_color=00000000" alt="top languages"/>
-</p>
+<div align="center">
+  <img src="./assets/hollor_knight3.gif" height="110" align="absmiddle" alt="Pixel knight"/>
+  <img src="https://streak-stats.demolab.com?user=nunezgabriel&background=0D1117&hide_border=true&ring=39D353&fire=A371F7&currStreakNum=FFFFFF&currStreakLabel=39D353&sideNums=FFFFFF&sideLabels=A371F7&dates=8B949E&stroke=30363D" align="absmiddle" alt="GitHub Streak"/>
+  <img src="./assets/d9tnfw0-a8064ec6-c506-438c-b0de-b9c2cda9e818.gif" height="110" align="absmiddle" alt="Pixel sans"/>
+  <br/><br/>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=nunezgabriel&show_icons=true&hide=issues,contribs&rank_icon=github&hide_border=true&title_color=39D353&icon_color=A371F7&text_color=C9D1D9&ring_color=39D353&bg_color=0D1117" alt="GitHub Stats"/>
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunezgabriel&layout=compact&langs_count=8&hide_border=true&title_color=39D353&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nunezgabriel&theme=merko&hide_border=true&background=FFFFFF00" alt="streak"/>
-</p>
+<br/>
 
-<!-- ===================== SNAKE ===================== -->
-<p align="center">
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nunezgabriel/nunezgabriel/output/pacman-contribution-graph-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nunezgabriel/nunezgabriel/output/pacman-contribution-graph.svg"/>
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/nunezgabriel/nunezgabriel/output/pacman-contribution-graph-dark.svg"/>
+  </picture>
+</div>
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nunezgabriel/nunezgabriel/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nunezgabriel/nunezgabriel/output/github-snake.svg"/>
-    <img alt="snake animation" src="https://raw.githubusercontent.com/nunezgabriel/nunezgabriel/output/github-snake-dark.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/nunezgabriel/nunezgabriel/output/github-snake-dark.svg"/>
   </picture>
-</p>
+</div>
 
-<p align="center"><b>📌 Check out my pinned projects below 👇</b></p>
+<div align="center">
+  <img src="./assets/divider.gif" width="100%" alt="divider"/>
+</div>
 
 <!-- ===================== FOOTER ===================== -->
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:26a641,50:0e4429,100:0d1117&height=120&section=footer" alt="footer"/>
-</p>
+<div align="center">
+  <img src="./assets/loading.gif" width="220" alt="Connecting"/>
+  <br/>
+  <sub>⬥ Check out my pinned projects below ⬥</sub>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:8957E5,45:26A641,100:39D353" alt="Footer"/>
+</div>
