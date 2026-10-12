@@ -131,7 +131,7 @@ public class Gabriel extends SoftwareEngineer {
 </div>
 
 <!-- ===================== STATS ===================== -->
-<h3 align="center">⬥ GitHub Analytics ⬥</h3>
+<h3 align="center">⬥ GitHub Stats ⬥</h3>
 
 <div align="center">
   <img src="./assets/hollor_knight3.gif" height="110" align="absmiddle" alt="Pixel knight"/>
