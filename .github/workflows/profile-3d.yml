@@ -36,7 +36,11 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: .github/profile-3d.json
 
-      # Step 3: Commit the generated SVG back to main
+      # Step 3: Drop the language pie chart from the generated SVG
+      - name: Remove Language Pie Chart
+        run: python3 .github/scripts/strip_pie.py profile-3d-contrib/profile-3d-data.svg
+
+      # Step 4: Commit the generated SVG back to main
       - name: Commit & Push
         run: |
           git config user.name github-actions

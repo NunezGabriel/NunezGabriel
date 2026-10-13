@@ -140,8 +140,6 @@ public class Gabriel extends SoftwareEngineer {
 
 <br/>
 
-<h3 align="center">⬥ Contribution Data Warehouse ⬥</h3>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=3000&pause=1500&color=A66CFF&center=true&vCenter=true&width=760&lines=SELECT+*+FROM+contributions+WHERE+dev+%3D+%27Gabo%27;--+loading+3D+contribution+dataset..." alt="SQL query"/>
   <br/>
