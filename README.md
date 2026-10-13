@@ -20,26 +20,14 @@
 <!-- ===================== CONNECT ===================== -->
 <h3 align="center">⬥ Let's Connect ⬥</h3>
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <th width="50%"><div align="center">⬥ Professional</div></th>
-      <th width="50%"><div align="center">⬥ Community</div></th>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/gabriel-nunez"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/></a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="mailto:gabriel.nunez.arenas@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email"/></a>
-      </td>
-      <td align="center">
-        <a href="https://gdg.community.dev/gdg-arequipa/"><img src="./assets/google-developers.svg" height="64" alt="GDG Arequipa"/></a>
-        <br/>
-        <sub><b>Organizer @ GDG Arequipa</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-nunez"><img src="./assets/connect/linkedin.svg" height="84" alt="LinkedIn"/></a>
+  <a href="mailto:gabriel.nunez.arenas@gmail.com"><img src="./assets/connect/email.svg" height="84" alt="Email"/></a>
+</p>
+
+<p align="center">
+  <a href="https://gdg.community.dev/gdg-arequipa/"><img src="./assets/connect/gdg-achievement.svg" width="100%" alt="Achievement unlocked: Organizer @ GDG Arequipa"/></a>
+</p>
 
 <!-- ===================== ABOUT ===================== -->
 <h3 align="center">⬥ About Me ⬥</h3>
@@ -148,6 +136,16 @@ public class Gabriel extends SoftwareEngineer {
       </td>
     </tr>
   </table>
+</div>
+
+<br/>
+
+<h3 align="center">⬥ Contribution Data Warehouse ⬥</h3>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=3000&pause=1500&color=A66CFF&center=true&vCenter=true&width=760&lines=SELECT+*+FROM+contributions+WHERE+dev+%3D+%27Gabo%27;--+loading+3D+contribution+dataset..." alt="SQL query"/>
+  <br/>
+  <img src="./profile-3d-contrib/profile-3d-data.svg" width="100%" alt="3D contribution chart"/>
 </div>
 
 <br/>

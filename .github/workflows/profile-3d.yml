@@ -1,0 +1,45 @@
+name: GitHub Profile 3D Contrib
+
+on:
+  # Run daily at 06:00 UTC
+  schedule:
+    - cron: "0 6 * * *"
+
+  # Allow manual triggering of the workflow
+  workflow_dispatch:
+
+  # Run on pushes to main (except the generated files themselves)
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "profile-3d-contrib/**"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # Step 2: Generate the 3D contribution chart with the purple/red palette
+      - name: Generate 3D Contributions
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/profile-3d.json
+
+      # Step 3: Commit the generated SVG back to main
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A profile-3d-contrib
+          git commit -m "Update 3D contributions [skip ci]" && git push || echo "No changes to commit"

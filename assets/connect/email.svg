@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="342" height="84" viewBox="0 0 342 84">
+<defs><linearGradient id="bg" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="328" y2="0" spreadMethod="repeat"><stop offset="0" stop-color="#A66CFF"/><stop offset=".5" stop-color="#E8435A"/><stop offset="1" stop-color="#A66CFF"/><animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="328 0" dur="4s" repeatCount="indefinite"/></linearGradient></defs>
+<style>
+.blink{animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.lift{animation:lift 2.4s ease-in-out infinite}
+@keyframes lift{0%,100%{transform:translateY(0)}50%{transform:translateY(-2px)}}
+</style>
+<rect x="8" y="10" width="328" height="70" rx="10" fill="#291648"/>
+<g class="lift">
+<rect x="2" y="2" width="328" height="70" rx="10" fill="#161B22" stroke="url(#bg)" stroke-width="2.5"/>
+<rect x="18" y="15" width="46" height="46" rx="9" fill="#E8435A"/><rect x="27" y="27" width="28" height="21" rx="2" fill="none" stroke="#fff" stroke-width="3"/><path d="M28 29l13 10 13-10" fill="none" stroke="#fff" stroke-width="3" stroke-linejoin="round"/>
+<path d="M80 18h15v3h-15zM80 21h3v3h-3zM80 24h3v3h-3zM80 27h12v3h-12zM80 30h3v3h-3zM80 33h3v3h-3zM80 36h15v3h-15zM98 18h3v3h-3zM110 18h3v3h-3zM98 21h6v3h-6zM107 21h6v3h-6zM98 24h3v3h-3zM104 24h3v3h-3zM110 24h3v3h-3zM98 27h3v3h-3zM104 27h3v3h-3zM110 27h3v3h-3zM98 30h3v3h-3zM110 30h3v3h-3zM98 33h3v3h-3zM110 33h3v3h-3zM98 36h3v3h-3zM110 36h3v3h-3zM119 18h9v3h-9zM116 21h3v3h-3zM128 21h3v3h-3zM116 24h3v3h-3zM128 24h3v3h-3zM116 27h15v3h-15zM116 30h3v3h-3zM128 30h3v3h-3zM116 33h3v3h-3zM128 33h3v3h-3zM116 36h3v3h-3zM128 36h3v3h-3zM137 18h9v3h-9zM140 21h3v3h-3zM140 24h3v3h-3zM140 27h3v3h-3zM140 30h3v3h-3zM140 33h3v3h-3zM137 36h9v3h-9zM152 18h3v3h-3zM152 21h3v3h-3zM152 24h3v3h-3zM152 27h3v3h-3zM152 30h3v3h-3zM152 33h3v3h-3zM152 36h15v3h-15z" fill="#F0F6FC"/>
+<text x="80" y="58" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="11.5" fill="#8B949E">gabriel.nunez.arenas@gmail.com</text>
+<path class="blink" d="M298 27h4v4h4v4h4v4h-4v4h-4v4h-4z" fill="#E8435A"/>
+</g>
+</svg>

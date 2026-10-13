@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="342" height="84" viewBox="0 0 342 84">
+<defs><linearGradient id="bg" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="328" y2="0" spreadMethod="repeat"><stop offset="0" stop-color="#A66CFF"/><stop offset=".5" stop-color="#E8435A"/><stop offset="1" stop-color="#A66CFF"/><animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="328 0" dur="4s" repeatCount="indefinite"/></linearGradient></defs>
+<style>
+.blink{animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.lift{animation:lift 2.4s ease-in-out infinite}
+@keyframes lift{0%,100%{transform:translateY(0)}50%{transform:translateY(-2px)}}
+</style>
+<rect x="8" y="10" width="328" height="70" rx="10" fill="#291648"/>
+<g class="lift">
+<rect x="2" y="2" width="328" height="70" rx="10" fill="#161B22" stroke="url(#bg)" stroke-width="2.5"/>
+<rect x="18" y="15" width="46" height="46" rx="9" fill="#0A66C2"/><rect x="26" y="33" width="7" height="20" fill="#fff"/><rect x="26" y="23" width="7" height="7" fill="#fff"/><path d="M38 33h7v3c1.5-2.4 3.6-3.6 6.5-3.6 4.4 0 6.5 2.8 6.5 8V53h-7V41.6c0-2.6-.9-3.9-2.9-3.9-2.2 0-3.1 1.5-3.1 4V53h-7z" fill="#fff"/>
+<path d="M80 18h3v3h-3zM80 21h3v3h-3zM80 24h3v3h-3zM80 27h3v3h-3zM80 30h3v3h-3zM80 33h3v3h-3zM80 36h15v3h-15zM101 18h9v3h-9zM104 21h3v3h-3zM104 24h3v3h-3zM104 27h3v3h-3zM104 30h3v3h-3zM104 33h3v3h-3zM101 36h9v3h-9zM116 18h3v3h-3zM128 18h3v3h-3zM116 21h3v3h-3zM128 21h3v3h-3zM116 24h6v3h-6zM128 24h3v3h-3zM116 27h3v3h-3zM122 27h3v3h-3zM128 27h3v3h-3zM116 30h3v3h-3zM125 30h6v3h-6zM116 33h3v3h-3zM128 33h3v3h-3zM116 36h3v3h-3zM128 36h3v3h-3zM134 18h3v3h-3zM146 18h3v3h-3zM134 21h3v3h-3zM143 21h3v3h-3zM134 24h3v3h-3zM140 24h3v3h-3zM134 27h6v3h-6zM134 30h3v3h-3zM140 30h3v3h-3zM134 33h3v3h-3zM143 33h3v3h-3zM134 36h3v3h-3zM146 36h3v3h-3zM152 18h15v3h-15zM152 21h3v3h-3zM152 24h3v3h-3zM152 27h12v3h-12zM152 30h3v3h-3zM152 33h3v3h-3zM152 36h15v3h-15zM170 18h12v3h-12zM170 21h3v3h-3zM182 21h3v3h-3zM170 24h3v3h-3zM182 24h3v3h-3zM170 27h3v3h-3zM182 27h3v3h-3zM170 30h3v3h-3zM182 30h3v3h-3zM170 33h3v3h-3zM182 33h3v3h-3zM170 36h12v3h-12zM191 18h9v3h-9zM194 21h3v3h-3zM194 24h3v3h-3zM194 27h3v3h-3zM194 30h3v3h-3zM194 33h3v3h-3zM191 36h9v3h-9zM206 18h3v3h-3zM218 18h3v3h-3zM206 21h3v3h-3zM218 21h3v3h-3zM206 24h6v3h-6zM218 24h3v3h-3zM206 27h3v3h-3zM212 27h3v3h-3zM218 27h3v3h-3zM206 30h3v3h-3zM215 30h6v3h-6zM206 33h3v3h-3zM218 33h3v3h-3zM206 36h3v3h-3zM218 36h3v3h-3z" fill="#F0F6FC"/>
+<text x="80" y="58" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="11.5" fill="#8B949E">/in/gabriel-nunez</text>
+<path class="blink" d="M298 27h4v4h4v4h4v4h-4v4h-4v4h-4z" fill="#A66CFF"/>
+</g>
+</svg>
