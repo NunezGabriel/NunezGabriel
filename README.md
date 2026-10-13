@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <a href="https://gdg.community.dev/gdg-arequipa/"><img src="./assets/connect/gdg-achievement.svg" width="100%" alt="Achievement unlocked: Organizer @ GDG Arequipa"/></a>
+  <a href="https://gdg.community.dev/gdg-arequipa/"><img src="./assets/connect/gdg-organizer.svg" width="100%" alt="Organizer @ GDG Arequipa"/></a>
 </p>
 
 <!-- ===================== ABOUT ===================== -->
